@@ -1,0 +1,65 @@
+失败链接报告
+==================================================
+生成时间: 2025/7/7 15:11:23
+失败总数: 8
+
+失败详情:
+------------------------------
+1. /app-integration-dev/wps365/client/wpsoffice/wps-integration-mode/wps-macro-editor-development/ui-composition/user-form-window.html
+   实际URL: https://open.wps.cn/documents/dynamic.html?link=%2Fapp-integration-dev%2Fwps365%2Fclient%2Fwpsoffice%2Fwps-integration-mode%2Fwps-macro-editor-development%2Fui-composition%2Fuser-form-window.html
+   错误类型: 普通
+   重试次数: 2
+   错误信息: page.goto: Navigation to "https://open.wps.cn/documents/dynamic.html?link=%2Fapp-integration-dev%2Fwps365%2Fclient%2Fwpsoffice%2Fwps-integration-mode%2Fwps-macro-editor-development%2Fui-composition%2Fuser-form-window.html" is interrupted by another navigation to "https://open.wps.cn/documents/app-integration-dev/wps365/client/wpsoffice/wps-integration-mode/wps-macro-editor-development/ui-composition/user-form-window.html"
+Call log:
+[2m  - navigating to "https://open.wps.cn/documents/dynamic.html?link=%2Fapp-integration-dev%2Fwps365%2Fclient%2Fwpsoffice%2Fwps-integration-mode%2Fwps-macro-editor-development%2Fui-composition%2Fuser-form-window.html", waiting until "domcontentloaded"[22m
+
+   时间: 2025/7/7 12:21:57
+
+2. /app-integration-dev/wps365/client/wpsoffice/jsapi/addin-api/customize-ribbon/ribboncontrol-object.html
+   实际URL: https://open.wps.cn/documents/dynamic.html?link=%2Fapp-integration-dev%2Fwps365%2Fclient%2Fwpsoffice%2Fjsapi%2Faddin-api%2Fcustomize-ribbon%2Fribboncontrol-object.html
+   错误类型: 普通
+   重试次数: 2
+   错误信息: 内容太少或为空
+   时间: 2025/7/7 12:22:52
+
+3. /app-integration-dev/wps365/client/wpsoffice/wps-integration-mode/wps-macro-editor-development/ui-composition/statusbar.html
+   实际URL: https://open.wps.cn/documents/dynamic.html?link=%2Fapp-integration-dev%2Fwps365%2Fclient%2Fwpsoffice%2Fwps-integration-mode%2Fwps-macro-editor-development%2Fui-composition%2Fstatusbar.html
+   错误类型: 普通
+   重试次数: 2
+   错误信息: 内容太少或为空
+   时间: 2025/7/7 12:22:55
+
+4. /app-integration-dev/wps365/client/wpsoffice/wps-integration-mode/wps-macro-editor-development/run-macro/old-form-control-run-macro.html
+   实际URL: https://open.wps.cn/documents/dynamic.html?link=%2Fapp-integration-dev%2Fwps365%2Fclient%2Fwpsoffice%2Fwps-integration-mode%2Fwps-macro-editor-development%2Frun-macro%2Fold-form-control-run-macro.html
+   错误类型: 普通
+   重试次数: 6
+   错误信息: 内容太少或为空
+   时间: 2025/7/7 12:24:59
+
+5. /app-integration-dev/wps365/client/wpsoffice/jsapi/et/enum/XlDataLabelSeparator.html
+   实际URL: https://open.wps.cn/documents/dynamic.html?link=%2Fapp-integration-dev%2Fwps365%2Fclient%2Fwpsoffice%2Fjsapi%2Fet%2Fenum%2FXlDataLabelSeparator.html
+   错误类型: 普通
+   重试次数: 2
+   错误信息: 内容太少或为空
+   时间: 2025/7/7 12:44:18
+
+6. /app-integration-dev/wps365/client/wpsoffice/jsapi/wps/enum/XlDataLabelSeparator.html
+   实际URL: https://open.wps.cn/documents/dynamic.html?link=%2Fapp-integration-dev%2Fwps365%2Fclient%2Fwpsoffice%2Fjsapi%2Fwps%2Fenum%2FXlDataLabelSeparator.html
+   错误类型: 普通
+   重试次数: 2
+   错误信息: 内容太少或为空
+   时间: 2025/7/7 14:49:24
+
+7. /app-integration-dev/wps365/client/wpsoffice/jsapi/wpp/enum/XlDataLabelSeparator.html
+   实际URL: https://open.wps.cn/documents/dynamic.html?link=%2Fapp-integration-dev%2Fwps365%2Fclient%2Fwpsoffice%2Fjsapi%2Fwpp%2Fenum%2FXlDataLabelSeparator.html
+   错误类型: 普通
+   重试次数: 2
+   错误信息: 内容太少或为空
+   时间: 2025/7/7 15:00:17
+
+8. /app-integration-dev/wps365/client/web-apps/JSAPI-overview.html
+   实际URL: https://open.wps.cn/documents/dynamic.html?link=%2Fapp-integration-dev%2Fwps365%2Fclient%2Fweb-apps%2FJSAPI-overview.html
+   错误类型: 普通
+   重试次数: 2
+   错误信息: 内容太少或为空
+   时间: 2025/7/7 15:11:23

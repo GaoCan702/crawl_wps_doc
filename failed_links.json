@@ -1,0 +1,70 @@
+{
+  "timestamp": "2025-07-07T07:11:23.680Z",
+  "totalFailed": 8,
+  "failedLinks": [
+    {
+      "linkPath": "/app-integration-dev/wps365/client/wpsoffice/wps-integration-mode/wps-macro-editor-development/ui-composition/user-form-window.html",
+      "lastUsedUrl": "https://open.wps.cn/documents/dynamic.html?link=%2Fapp-integration-dev%2Fwps365%2Fclient%2Fwpsoffice%2Fwps-integration-mode%2Fwps-macro-editor-development%2Fui-composition%2Fuser-form-window.html",
+      "error": "page.goto: Navigation to \"https://open.wps.cn/documents/dynamic.html?link=%2Fapp-integration-dev%2Fwps365%2Fclient%2Fwpsoffice%2Fwps-integration-mode%2Fwps-macro-editor-development%2Fui-composition%2Fuser-form-window.html\" is interrupted by another navigation to \"https://open.wps.cn/documents/app-integration-dev/wps365/client/wpsoffice/wps-integration-mode/wps-macro-editor-development/ui-composition/user-form-window.html\"\nCall log:\n\u001b[2m  - navigating to \"https://open.wps.cn/documents/dynamic.html?link=%2Fapp-integration-dev%2Fwps365%2Fclient%2Fwpsoffice%2Fwps-integration-mode%2Fwps-macro-editor-development%2Fui-composition%2Fuser-form-window.html\", waiting until \"domcontentloaded\"\u001b[22m\n",
+      "errorType": "普通",
+      "retryCount": 2,
+      "timestamp": "2025-07-07T04:21:57.568Z"
+    },
+    {
+      "linkPath": "/app-integration-dev/wps365/client/wpsoffice/jsapi/addin-api/customize-ribbon/ribboncontrol-object.html",
+      "lastUsedUrl": "https://open.wps.cn/documents/dynamic.html?link=%2Fapp-integration-dev%2Fwps365%2Fclient%2Fwpsoffice%2Fjsapi%2Faddin-api%2Fcustomize-ribbon%2Fribboncontrol-object.html",
+      "error": "内容太少或为空",
+      "errorType": "普通",
+      "retryCount": 2,
+      "timestamp": "2025-07-07T04:22:52.078Z"
+    },
+    {
+      "linkPath": "/app-integration-dev/wps365/client/wpsoffice/wps-integration-mode/wps-macro-editor-development/ui-composition/statusbar.html",
+      "lastUsedUrl": "https://open.wps.cn/documents/dynamic.html?link=%2Fapp-integration-dev%2Fwps365%2Fclient%2Fwpsoffice%2Fwps-integration-mode%2Fwps-macro-editor-development%2Fui-composition%2Fstatusbar.html",
+      "error": "内容太少或为空",
+      "errorType": "普通",
+      "retryCount": 2,
+      "timestamp": "2025-07-07T04:22:55.695Z"
+    },
+    {
+      "linkPath": "/app-integration-dev/wps365/client/wpsoffice/wps-integration-mode/wps-macro-editor-development/run-macro/old-form-control-run-macro.html",
+      "lastUsedUrl": "https://open.wps.cn/documents/dynamic.html?link=%2Fapp-integration-dev%2Fwps365%2Fclient%2Fwpsoffice%2Fwps-integration-mode%2Fwps-macro-editor-development%2Frun-macro%2Fold-form-control-run-macro.html",
+      "error": "内容太少或为空",
+      "errorType": "普通",
+      "retryCount": 6,
+      "timestamp": "2025-07-07T04:24:59.030Z"
+    },
+    {
+      "linkPath": "/app-integration-dev/wps365/client/wpsoffice/jsapi/et/enum/XlDataLabelSeparator.html",
+      "lastUsedUrl": "https://open.wps.cn/documents/dynamic.html?link=%2Fapp-integration-dev%2Fwps365%2Fclient%2Fwpsoffice%2Fjsapi%2Fet%2Fenum%2FXlDataLabelSeparator.html",
+      "error": "内容太少或为空",
+      "errorType": "普通",
+      "retryCount": 2,
+      "timestamp": "2025-07-07T04:44:18.690Z"
+    },
+    {
+      "linkPath": "/app-integration-dev/wps365/client/wpsoffice/jsapi/wps/enum/XlDataLabelSeparator.html",
+      "lastUsedUrl": "https://open.wps.cn/documents/dynamic.html?link=%2Fapp-integration-dev%2Fwps365%2Fclient%2Fwpsoffice%2Fjsapi%2Fwps%2Fenum%2FXlDataLabelSeparator.html",
+      "error": "内容太少或为空",
+      "errorType": "普通",
+      "retryCount": 2,
+      "timestamp": "2025-07-07T06:49:24.944Z"
+    },
+    {
+      "linkPath": "/app-integration-dev/wps365/client/wpsoffice/jsapi/wpp/enum/XlDataLabelSeparator.html",
+      "lastUsedUrl": "https://open.wps.cn/documents/dynamic.html?link=%2Fapp-integration-dev%2Fwps365%2Fclient%2Fwpsoffice%2Fjsapi%2Fwpp%2Fenum%2FXlDataLabelSeparator.html",
+      "error": "内容太少或为空",
+      "errorType": "普通",
+      "retryCount": 2,
+      "timestamp": "2025-07-07T07:00:17.293Z"
+    },
+    {
+      "linkPath": "/app-integration-dev/wps365/client/web-apps/JSAPI-overview.html",
+      "lastUsedUrl": "https://open.wps.cn/documents/dynamic.html?link=%2Fapp-integration-dev%2Fwps365%2Fclient%2Fweb-apps%2FJSAPI-overview.html",
+      "error": "内容太少或为空",
+      "errorType": "普通",
+      "retryCount": 2,
+      "timestamp": "2025-07-07T07:11:23.088Z"
+    }
+  ]
+}

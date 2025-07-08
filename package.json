@@ -1,0 +1,20 @@
+{
+  "name": "playwright-wps-docs",
+  "version": "1.0.0",
+  "description": "自动化提取 WPS 文档的 Playwright 项目",
+  "main": "index.js",
+  "scripts": {
+    "install-browsers": "playwright install",
+    "start": "node fast-scraper.js"
+  },
+  "keywords": ["playwright", "web-scraping", "documentation", "wps"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.40.0",
+    "@mozilla/readability": "^0.4.4",
+    "turndown": "^7.1.2",
+    "fs-extra": "^11.1.1",
+    "jsdom": "^23.0.1"
+  }
+} 
